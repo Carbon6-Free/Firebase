@@ -10,3 +10,6 @@
 
 (4/29~ 재수정 할 예정)
 
+<img width="745" alt="스크린샷 2024-05-06 오후 3 55 56" src="https://github.com/Carbon6-Free/Firebase/assets/147595460/f0eceb94-d9d0-44e0-99ac-119e9e2eede0">
+
+지속적으로 영어문자와 함께 표시되는 부분을 수정.
