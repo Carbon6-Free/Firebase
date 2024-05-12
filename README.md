@@ -17,3 +17,7 @@
 ![image](https://github.com/Carbon6-Free/Firebase/assets/147595460/73e10592-366c-4693-889e-919ff67e2ff5)
 
 기본적인 다크모드와 아래에 알림창이 뜨도록 추가함.
+
+# ~5.13까지 완료된 모습
+
+![image](https://github.com/Carbon6-Free/Firebase/assets/101008357/83291680-0a5c-4010-acaa-2e3588c81a12)
