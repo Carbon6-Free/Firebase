@@ -24,3 +24,7 @@
 
 # ~5/26 까지 완료된 모습
 <img width="382" alt="스크린샷 2024-05-26 오후 7 04 38" src="https://github.com/Carbon6-Free/Firebase/assets/101008357/caa0dd5e-b81f-4637-a81a-0f8af62f8268">
+
+<img width="1512" alt="스크린샷 2024-05-26 오후 7 17 33" src="https://github.com/Carbon6-Free/Firebase/assets/147595460/192543c4-142a-44d2-bf2f-a854d35939ff">
+
+<img width="1499" alt="스크린샷 2024-05-26 오후 7 17 22" src="https://github.com/Carbon6-Free/Firebase/assets/147595460/ae662131-1704-4856-a6b2-bf1578f93abd">
