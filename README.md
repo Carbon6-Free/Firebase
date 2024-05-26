@@ -21,3 +21,6 @@
 # ~5.13까지 완료된 모습
 
 ![image](https://github.com/Carbon6-Free/Firebase/assets/101008357/83291680-0a5c-4010-acaa-2e3588c81a12)
+
+# ~5/26 까지 완료된 모습
+<img width="382" alt="스크린샷 2024-05-26 오후 7 04 38" src="https://github.com/Carbon6-Free/Firebase/assets/101008357/caa0dd5e-b81f-4637-a81a-0f8af62f8268">
