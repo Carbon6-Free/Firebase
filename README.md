@@ -5,8 +5,9 @@
 
 터미널창에 
 ```python
-streamlit run new2.py
-``` 
+streamlit run carbonfree_new2.py
+```
+(나머지 파일은 무수한 시행착오들... 무시해주면 된다)
 
 -----------
 
