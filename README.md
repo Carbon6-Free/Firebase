@@ -1,6 +1,31 @@
 # Firebase
 ![image](https://github.com/Carbon6-Free/Firebase/assets/101008357/ef3c786b-6075-4260-a224-c2f88d8f2354)
 -----------
+# 실행방법
+
+터미널창에 
+```python
+streamlit run new2.py
+``` 
+
+-----------
+
+# chromedriver 에러가 났을때
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/32a82e4e-509d-40a6-aac5-5368f228ec1e">
+만약 이런 에러가 난다면
+
+url창에 chrome://version 쳐서 내 크롬버전 확인하고
+
+구글에 chromedriver 검색해서 내 버전에 맞는버전 설치하기
+
+만약 chromedriver에 내 버전이 없다면
+
+https://github.com/GoogleChromeLabs/chrome-for-testing/blob/main/data/latest-versions-per-milestone-with-downloads.json
+
+여기서 다운받아서 폴더에 넣어주기 (드래그해서 넣어주면 된다)
+
+-----------
+
 ### Firebase와 Streamlit을 연동
 두 개를 연동하여 streamlit에서 만든 웹 페이지에 firebase 구축된 값 첨가.
 <img width="528" alt="cf1" src="https://github.com/Carbon6-Free/Firebase/assets/147595460/72443362-a5bf-4fa3-b346-f931cf6e72a8">
